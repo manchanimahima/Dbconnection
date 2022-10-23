@@ -23,7 +23,7 @@ public class sampleDB {
 		//System.out.println(rs.getString(3));
 		System.out.println(rs.getString("price"));
 		}
-
+.......
 		
 	}
 
