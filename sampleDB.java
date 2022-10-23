@@ -20,7 +20,7 @@ public class sampleDB {
 		{
 		System.out.println(rs.getString("name"));
 		System.out.println(rs.getInt(1));
-		//System.out.println(rs.getString(3));
+		System.out.println(rs.getString(3));
 		System.out.println(rs.getString("price"));
 		}
 .......
